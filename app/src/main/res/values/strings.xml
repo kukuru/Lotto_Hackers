@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">Lotto</string>
-    <string name="lotto">%d, %d, $d, %d, %d + %d</string>
+    <string name="lotto">%d, %d, %d, %d, %d, %d + %d</string>
 </resources>
